@@ -3,7 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-
 - 🔭 I’m currently working on **Ed-Tech Project**
 
 - 🌱 I’m currently learning **Java , Express.js**
@@ -16,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adityakumar16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adityakumar16/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/aditya8250136105/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aditya8250136105/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/aditya8250136105/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/aditya8250136105/practice" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adityakumar16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityakumar16" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aditya8250136105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya8250136105" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/aditya8250136105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aditya8250136105" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,6 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nayan-kumar-singh&show_icons=true&locale=en" alt="nayan-kumar-singh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayan-kumar-singh&" alt="nayan-kumar-singh" /></p>
-
 ![](https://leetcard.jacoblin.cool/aditya8250136105?ext=contest)
-
