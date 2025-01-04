@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aditya8250136105@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vxpgQNWW5sHOJ3PllA-li2HLjbWbpj7m/view?usp=sharing](https://drive.google.com/file/d/1vxpgQNWW5sHOJ3PllA-li2HLjbWbpj7m/view?usp=sharing)
+- 📄 Know about my experiences [My Resume]([https://drive.google.com/file/d/1vxpgQNWW5sHOJ3PllA-li2HLjbWbpj7m/view?usp=sharing](https://drive.google.com/file/d/1A3RmcSCQ25qE_dU0BQyG6titA72f1iKz/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
