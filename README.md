@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Ed-Tech Project**
+- 🔭 I’m currently working on **Expense Management Project**
 
-- 🌱 I’m currently learning **Java , Express.js**
+- 🌱 I’m currently learning **Java Spring Boot , Express.js**
 
 - 💬 Ask me about **Frontend and Backend**
 
